@@ -1,0 +1,12 @@
+/* Your app styles here */
+.page-content {
+	overflow: hidden;
+}
+
+#map {
+	height: -webkit-calc(100vh - 104px);
+	height: calc(100vh - 104px);
+	width: 100vw;
+	padding: 0px;
+  position: relative;
+}
